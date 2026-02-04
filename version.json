@@ -4,6 +4,6 @@
   "force_update": false,
   "update_title": "发现新版本",
   "update_message": "1. 优化便民服务功能\n2. 新增商家数据\n3. 修复已知问题",
-  "apk_url": "https://mcdappa1.oss-cn-beijing.aliyuncs.com/mcd-calendar.apk",
+  "apk_url": "https://github.com/uraniceye/mcdcalendar/blob/main/mcd-calendar.apk",
   "file_size": "5.2MB"
 }
